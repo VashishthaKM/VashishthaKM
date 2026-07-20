@@ -1,200 +1,91 @@
-<!--
-👋 Hi, I’m Vashishtha Maurya
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full stcak development, Python, Java and C/C++.
-- 💞️ I’m looking to collaborate on open source projects and others.
-- 📫 Reach me out @vashishtha_maurya ig. 
--->
 <h1 align="center">Hi 👋, I'm Vashishtha Maurya</h1>
-
-<h3 align="center">Backend Developer • DevOps Enthusiast • Competitive Programmer</h3>
-
+<h3 align="center">Backend Developer • Java Full Stack Developer • DevOps Enthusiast</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Developer;DevOps+Enthusiast;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer;DevOps+Enthusiast;Competitive+Programmer;Always+Learning+New+Things"/>
 </p>
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=VashishthaKM&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=VashishthaKM&label=Profile+Views&style=for-the-badge"/>
 </p>
-
----
 
 ## 🚀 About Me
+- 💻 Java Full Stack Developer
+- 🌱 Learning Distributed Systems & Cloud
+- ☁️ DevOps enthusiast
+- 🧠 Strong in DSA, Algorithms, OS, DBMS, CN
+- ⚡ Love building scalable backend systems
 
-- 💻 Backend Developer passionate about building scalable applications
-- 🌱 Currently exploring **Distributed Systems**, **Cloud Infrastructure**, and **System Design**
-- ☁️ Interested in **DevOps**, **Containerization**, and **Kubernetes**
-- 🧠 Strong foundation in **Algorithms**, **Data Structures**, **Operating Systems**, **Computer Networks**, and **DBMS**
-- ⚡ Love solving problems on LeetCode and learning new technologies
-
----
-
-## 🌐 Connect With Me
-
+## 🌐 Connect
 <p align="center">
-<a href="https://www.linkedin.com/in/VashishthaKM/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/VashishthaKM" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/VashishthaKM/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/VashishthaKM" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/VashishthaKM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/VashishthaKM/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="https://twitter.com/VashishthaKM"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"></a>
+<a href="https://leetcode.com/u/VashishthaKM/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://t.me/VashishthaKM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"></a>
+<a href="mailto:vashishthakm@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </p>
-
----
 
 # 💻 Tech Stack
+### Languages
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript"/>
+### Java Full Stack
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+**Technologies:** Spring Boot • Spring MVC • Spring Security • Hibernate • JDBC • JSP • Servlets • REST APIs
 
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript" />
-</p>
-
----
-
-## ⚙️ Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,django" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-## ☁️ DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx" />
-</p>
-
----
-
-## 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,django"/>
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+**Also:** Oracle Database • SQL • PL/SQL
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git,github,postman,vscode"/>
 
 # 📚 Core Computer Science
+![](https://img.shields.io/badge/Data_Structures-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Algorithms-darkgreen?style=for-the-badge)
+![](https://img.shields.io/badge/OOP-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Operating_Systems-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/Computer_Networks-success?style=for-the-badge)
+![](https://img.shields.io/badge/DBMS-orange?style=for-the-badge)
+![](https://img.shields.io/badge/System_Design-red?style=for-the-badge)
 
-<p>
-
-<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Algorithms-1F425F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Operating%20Systems-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Networks-228B22?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System%20Design-FF4500?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📈 GitHub Statistics
-
+# 📊 GitHub Stats
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=VashishthaKM&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=VashishthaKM&theme=tokyonight&hide_border=true"/>
-
 </p>
-
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VashishthaKM&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
-
----
 
 # 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VashishthaKM&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VashishthaKM&theme=algolia&no-frame=true"/>
 </p>
 
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
+# 📈 Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VashishthaKM&theme=tokyo-night)](https://github.com/VashishthaKM/github-readme-activity-graph)
 
-</p>
-
----
-
-# 💻 LeetCode Stats
-
+# 💻 LeetCode
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/VashishthaKM?theme=dark&font=Karma&ext=contest"/>
-
 </p>
-
----
 
 # 🐍 Contribution Snake
-
-> **After creating the GitHub Action (explained below), uncomment this section.**
-
-```html
-<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/VashishthaKM/VashishthaKM/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+<!--
+# 🥇 Holopin
+Replace with your Holopin board when available.
+# 🌟 Featured Projects
+- 🚀 Project 1
+- ☁️ Project 2
+- 📦 Project 3
 -->
-```
-
----
-
-# ✍️ Random Dev Quote
-
+# 📅 3D Contributions
+Add after enabling github-profile-3d-contrib.
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```text
-while(!success){
-    tryAgain();
-}
-```
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 </p>
