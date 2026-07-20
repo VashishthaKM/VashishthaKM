@@ -47,8 +47,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
     
 <div class='container'>
-    <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=VashishthaKM&show_icons=true&theme=radical&hide_border=true" />
-    &nbsp;
+    <!-- <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=VashishthaKM&show_icons=true&theme=radical&hide_border=true" />
+    &nbsp; -->
     &nbsp;
     <img style="height: auto; width: 43%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=VashishthaKM&theme=radical&layout=compact&hide_border=true" /></div>
 </div>
