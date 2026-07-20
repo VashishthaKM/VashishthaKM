@@ -1,57 +1,200 @@
-<!--- 👋 Hi, I’m Vashishtha Maurya
+<!--
+👋 Hi, I’m Vashishtha Maurya
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full stcak development, Python, Java and C/C++.
 - 💞️ I’m looking to collaborate on open source projects and others.
-- 📫 Reach me out @vashishtha_maurya ig.
+- 📫 Reach me out @vashishtha_maurya ig. 
+-->
+<h1 align="center">Hi 👋, I'm Vashishtha Maurya</h1>
 
-<!---
-VashishthaKM/VashishthaKM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<h1 align="center">Hi 👋, I'm  Vashishtha Maurya </h1>
-
-
-<h3 align="left">Let's Connect:</h3>
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=VashishthaKM&label=Profile%20views&color=0e75b6&style=flat" alt="Vashishtha" /> </h3>
-
-<div id="badges" align = "center">
-    <a href="https://www.linkedin.com/in/VashishthaKM/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/VashishthaKM">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://leetcode.com/u/VashishthaKM/">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gfg Badge"/>
-    </a>
-</div>
-
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
-<h3 align="left">Devops:</h3>
-<p> <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-</p>
-
-<hr>
+<h3 align="center">Backend Developer • DevOps Enthusiast • Competitive Programmer</h3>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-    
-<div class='container'>
-    <!-- <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=VashishthaKM&show_icons=true&theme=radical&hide_border=true" />
-    &nbsp; -->
-    &nbsp;
-    <img style="height: auto; width: 43%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=VashishthaKM&theme=radical&layout=compact&hide_border=true" /></div>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Developer;DevOps+Enthusiast;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG"/>
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VashishthaKM&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-[![VashishthaKM's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VashishthaKM&theme=high-contrast)](https://github.com/VashishthaKM/github-readme-activity-graph)
+---
+
+## 🚀 About Me
+
+- 💻 Backend Developer passionate about building scalable applications
+- 🌱 Currently exploring **Distributed Systems**, **Cloud Infrastructure**, and **System Design**
+- ☁️ Interested in **DevOps**, **Containerization**, and **Kubernetes**
+- 🧠 Strong foundation in **Algorithms**, **Data Structures**, **Operating Systems**, **Computer Networks**, and **DBMS**
+- ⚡ Love solving problems on LeetCode and learning new technologies
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/VashishthaKM/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/VashishthaKM" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/VashishthaKM/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/VashishthaKM" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript" />
+</p>
+
+---
+
+## ⚙️ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,django" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx" />
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 📚 Core Computer Science
+
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-1F425F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-228B22?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-FF4500?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VashishthaKM&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=VashishthaKM&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VashishthaKM&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VashishthaKM&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VashishthaKM&theme=tokyo-night)](https://github.com/VashishthaKM/github-readme-activity-graph)
+
+</p>
+
+---
+
+# 💻 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/VashishthaKM?theme=dark&font=Karma&ext=contest"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **After creating the GitHub Action (explained below), uncomment this section.**
+
+```html
+<!--
+<p align="center">
+<img src="https://raw.githubusercontent.com/VashishthaKM/VashishthaKM/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+-->
+```
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+while(!success){
+    tryAgain();
+}
+```
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+</p>
