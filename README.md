@@ -28,28 +28,20 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript"/>
 
-### Java Full Stack
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
-
-**Technologies:** Spring Boot • Spring MVC • Spring Security • Hibernate • JDBC • JSP • Servlets • REST APIs
-
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,django"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,nodejs,django,mysql,mongodb"/><img src="https://go-skill-icons.vercel.app/api/icons?i=oracle"/>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-**Also:** Oracle Database • SQL • PL/SQL
+**Experience:** Spring Boot • Spring MVC • Spring Security • REST APIs • JSP • Servlets
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git,github,postman,vscode"/>
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github,postman,vscode"/>
 
 # 📚 Core Computer Science
 ![](https://img.shields.io/badge/Data_Structures-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Algorithms-darkgreen?style=for-the-badge)
-![](https://img.shields.io/badge/OOP-purple?style=for-the-badge)
 ![](https://img.shields.io/badge/Operating_Systems-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Computer_Networks-success?style=for-the-badge)
 ![](https://img.shields.io/badge/DBMS-orange?style=for-the-badge)
@@ -57,17 +49,16 @@
 
 # 📊 GitHub Stats
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VashishthaKM&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=VashishthaKM&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VashishthaKM&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
+<!--
 # 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=VashishthaKM&theme=algolia&no-frame=true"/>
 </p>
+-->
 
 # 📈 Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VashishthaKM&theme=tokyo-night)](https://github.com/VashishthaKM/github-readme-activity-graph)
@@ -79,7 +70,7 @@
 
 # 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/VashishthaKM/VashishthaKM/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/VashishthaKM/VashishthaKM/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <!--
 # 🥇 Holopin
@@ -89,8 +80,3 @@ Replace with your Holopin board when available.
 - ☁️ Project 2
 - 📦 Project 3
 -->
-# 📅 3D Contributions
-Add after enabling github-profile-3d-contrib.
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
-</p>
