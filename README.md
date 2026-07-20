@@ -27,17 +27,22 @@
 # 💻 Tech Stack
 ### Languages
 <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript"/>
+
 ### Java Full Stack
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+
 **Technologies:** Spring Boot • Spring MVC • Spring Security • Hibernate • JDBC • JSP • Servlets • REST APIs
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,django"/>
+
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 **Also:** Oracle Database • SQL • PL/SQL
+
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git,github,postman,vscode"/>
 
