@@ -26,7 +26,7 @@
 
 # 💻 Tech Stack
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
@@ -37,7 +37,7 @@
 **Experience:** Spring Boot • Spring MVC • Spring Security • REST APIs • JSP • Servlets
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,linux,nginx,git,github,postman,vscode"/>
 
 # 📚 Core Computer Science
 ![](https://img.shields.io/badge/Data_Structures-blue?style=for-the-badge)
